@@ -1,0 +1,14 @@
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\bin\Debug\netcoreapp2.2\EZStayAdminAPI.deps.json
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\bin\Debug\netcoreapp2.2\EZStayAdminAPI.runtimeconfig.json
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\bin\Debug\netcoreapp2.2\EZStayAdminAPI.runtimeconfig.dev.json
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\bin\Debug\netcoreapp2.2\EZStayAdminAPI.dll
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\bin\Debug\netcoreapp2.2\EZStayAdminAPI.pdb
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.csprojAssemblyReference.cache
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.csproj.CoreCompileInputs.cache
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.RazorAssemblyInfo.cache
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.RazorAssemblyInfo.cs
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.AssemblyInfoInputs.cache
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.AssemblyInfo.cs
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.RazorTargetAssemblyInfo.cache
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.dll
+D:\gajanan\EZStayAdminAPI\EZStayAdminAPI\obj\Debug\netcoreapp2.2\EZStayAdminAPI.pdb
